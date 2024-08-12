@@ -1,4 +1,4 @@
-![Gitfind](https://github.com/Tiag0Santos/Gitfind/blob/main/src/assets/Screenshot.png)
+<a href="https://ibb.co/0hpH9RZ"><img src="https://i.ibb.co/BqH065j/screencapture-localhost-3000-2024-08-11-23-47-30.png" alt="screencapture-localhost-3000-2024-08-11-23-47-30" border="0"></a>
 
 # Gitfind
 #### O projeto Gitfind foi desenvolvido nas aulas de Formação React da DIO! 
@@ -9,3 +9,4 @@
 * Css
 * JavaScript
 * ReactJs
+
